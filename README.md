@@ -105,6 +105,6 @@ press `q` on your keyboard to exit and get back to the shell after you ran the p
 
 # Getting Started
 
-## Follow tutorial on Amazon docs 😎
+## Follow tutorial on Amazon docs
 Head over to [the Amazon docs](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.01.html) to continue through the tutorial, you've set up the dynamodb locally and setting up a connection to web services will be covered at the end of that tutorial
 
