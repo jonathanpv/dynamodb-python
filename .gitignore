@@ -130,3 +130,6 @@ dmypy.json
 
 # local copy of dynamodb
 dynamodb-local/
+
+# vscode
+.vscode/

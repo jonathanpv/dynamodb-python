@@ -49,6 +49,11 @@ sudo apt install python3 python3-pip ipython3
 sudo apt-get install unzip
 ```
 
+## Install boto3
+```
+pip3 install boto3
+```
+
 ## Install AWS CLI
 ```
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" --output awscliv2.zip
