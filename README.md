@@ -9,7 +9,7 @@ Going through getting started guides for dynamodb and python development. https:
     - [Install unzip](#install-unzip)
     - [Install dynamodb locally](#install-dynamodb-locally)
 - [Getting Started](#getting-started)
-    - [Follow tutorial on Amazon docs 😎](#follow-tutorial-on-amazon-docs-%F0%9F%98%8E)
+    - [Follow tutorial on Amazon docs](#follow-tutorial-on-amazon-docs)
 
 # Prerequisites
 ## Install Java
