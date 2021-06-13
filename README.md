@@ -50,9 +50,13 @@ sudo apt-get install unzip
 ```
 
 ## Install boto3
+boto3 doesn't have type annotations by default so we will use the boto3 stubs package to get them  
 ```
 pip3 install boto3
+pip3 install boto3-stubs
+pip3 install 'boto3-stubs[essential]'
 ```
+If you still see a modulenotfound error on vscode from pylance, restart vscode 
 
 ## Install AWS CLI
 ```
