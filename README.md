@@ -4,16 +4,12 @@ Going through getting started guides for dynamodb and python development. https:
 # Table of Contents
 
 - [Prerequisites](#prerequisites)
+    - [Install Java](#install-java)
+    - [Install Python](#install-python)
+    - [Install unzip](#install-unzip)
     - [Install dynamodb locally](#install-dynamodb-locally)
 - [Getting Started](#getting-started)
-    - [Installing Python 2.7](#installing-python-2.7)
-    - [Installing Google Cloud SDK](#installing-google-cloud-sdk)
-    - [Setup App Engine Project](#setup-app-engine-project)
-    - [Running a Local Server for Testing](#running-a-local-server-for-testing)
-    - [Deploying the Website to the Cloud](#deploying-the-website-to-the-cloud)
-- [FAQ](#faq)
-- [Authors](#authors)
-- [Contributors](#contributors)
+    - [Follow tutorial on Amazon docs :)](#follow-tutorial-on-amazon-docs-%3A%29)
 
 # Prerequisites
 ## Install Java
